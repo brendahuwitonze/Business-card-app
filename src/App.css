@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.main{
+  max-width:50%;
+  margin: 0 auto;
+  padding-left: 25%;
+  text-align: center;
+ text-align: start;
+ color:aliceblue
+}
+.main h2{
+  text-align: start;
+  width: 242.71px;
+  height: 21px;
+  top: 535px;
+  left:152px
+}
+
+.main > p{
+  width:60%;
+}
+.ocuupation{
+  color: rgba(255, 166, 0, 0.712);
+}
+.webs{
+  color: aliceblue;
+}
