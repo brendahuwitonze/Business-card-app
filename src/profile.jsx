@@ -1,7 +1,7 @@
 import React from "react";
-import image from "../src/assets/Rectangle.svg";
-import emailIcons from "../src/assets/Icon.svg"
-import linkedIn from "../src/assets/linkedin.svg"
+import image from "../public/assets/Rectangle.svg";
+import emailIcons from "../public/assets/Icon.svg"
+import linkedIn from "../public/assets/linkedin.svg"
 
 export default function Profile() {
   return (
