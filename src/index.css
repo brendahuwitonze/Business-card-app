@@ -30,8 +30,8 @@ body {
   min-height: 100vh; */
     margin: 0;
     font-family: Inter, sans-serif;
-    height: 100vh;
-      background-color: #282D35;
+   min-height: 100vh;
+    background-color: #282D35;
 }
 
 h1 {
